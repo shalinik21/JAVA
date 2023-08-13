@@ -1,4 +1,4 @@
-import java.lang.*;
+
 public class Variables_Datatypes {
 
 //Variables are like a container to store data
