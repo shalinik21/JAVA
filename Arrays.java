@@ -24,7 +24,9 @@ public class Arrays {
 
         }
         System.out.println();
-
+        
+        //Printing using "for each loop"
+        //for each loop is introduced in new version of
         for(int element:marks){
             System.out.println(element);
         }
