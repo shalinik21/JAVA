@@ -23,7 +23,6 @@ public class Arrays {
             System.out.print(marks[i] + " ");
 
         }
-        //Printing using "for each loop"
         System.out.println();
 
         for(int element:marks){
