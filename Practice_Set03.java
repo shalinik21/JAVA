@@ -53,7 +53,7 @@ public class Practice_Set03 {
         n[1][2]=92;
 
 
-        for(int i=0;i<m.length;i++){
+        for(int i=0;i<m.length;i++){ 
             for(int j=0;j<m[i].length;j++){
             m[i][j]=m[i][j]+n[i][j];
 
