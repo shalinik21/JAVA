@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Methods {
+    //Static method is used as main method is called without object creation.
     static void logic(int x,int y){
 
         if (x>y){
